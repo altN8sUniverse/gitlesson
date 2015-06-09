@@ -1,0 +1,12 @@
+7.8 = number
+"888" = string
+67 < -11 = boolean 
+NaN = variable name
+5600 * 34 = variable
+
+
+*64  = wrong
+_%earn = wrong
+value = right
+salary = right
+do = right
