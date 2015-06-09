@@ -4,7 +4,7 @@
 NaN = variable name
 5600 * 34 = variable
 
-
+zxs
 *64  = wrong
 _%earn = wrong
 value = right
